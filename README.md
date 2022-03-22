@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rx-ms
-- 👀 I’m interested in programming...
-- 🌱 I’m currently learning rust.
+- 👀 I’m a Platform Engineer.
 
 <!---
 rx-ms/rx-ms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
